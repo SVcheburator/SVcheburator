@@ -1,4 +1,5 @@
 # Hi there 👋
+<img src="https://komarev.com/ghpvc/?username=SVcheburator&style=for-the-badge">
 
 ## Languages and Tools
 ### Languages:
