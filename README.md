@@ -4,6 +4,8 @@
 ### Languages:
 ![My Skills](https://skillicons.dev/icons?i=python,html,css)
 
+### Tools:
+![My Skills](https://skillicons.dev/icons?i=github,vscode)
 <!--
 **SVcheburator/SVcheburator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
