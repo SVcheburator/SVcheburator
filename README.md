@@ -7,8 +7,6 @@
 ### Tools:
 ![My Skills](https://skillicons.dev/icons?i=github,vscode)
 
-## Contacts:
-[![My Skills](https://skillicons.dev/icons?i=discord)](discordapp.com/users/CHEBURATOR#3764/)
 <!--
 **SVcheburator/SVcheburator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
