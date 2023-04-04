@@ -7,5 +7,7 @@
 
 ### Tools:
 ![My Skills](https://skillicons.dev/icons?i=github,vscode)
+
 ## Contacts:
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/CHEBURATOR#3764/)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/danylenko_sasha/)
