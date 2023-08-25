@@ -11,3 +11,4 @@
 ## Contacts:
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/CHEBURATOR#3764/)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/danylenko_sasha/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sasha-danylenko-9a7a0b287/)
