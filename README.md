@@ -14,10 +14,10 @@
 
 ### Tools:
 <div>
-  <img width="50" src="https://skillicons.dev/icons?i=github">
-  <img width="50" src="https://skillicons.dev/icons?i=vscode">
   <img width="50" src="https://skillicons.dev/icons?i=docker">
   <img width="50" src="https://skillicons.dev/icons?i=sqlite">
+  <img width="50" src="https://skillicons.dev/icons?i=github">
+  <img width="50" src="https://skillicons.dev/icons?i=vscode">
   <img width="50" src="https://skillicons.dev/icons?i=stackoverflow">
 </div>
 
