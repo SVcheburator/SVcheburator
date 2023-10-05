@@ -18,6 +18,7 @@
   <img width="50" src="https://skillicons.dev/icons?i=sqlite">
   <img width="50" src="https://skillicons.dev/icons?i=github">
   <img width="50" src="https://skillicons.dev/icons?i=vscode">
+  <img width="50" src="https://img.icons8.com/dusk/64/dbeaver.png"/>
   <img width="50"src="https://img.icons8.com/fluency/48/console.png">
   <img width="50" src="https://skillicons.dev/icons?i=stackoverflow">
 </div>
