@@ -15,6 +15,7 @@
 ### Tools:
 <div>
   <img width="50" src="https://skillicons.dev/icons?i=django">
+  <img width="50" src="https://skillicons.dev/icons?i=fastapi">
   <img width="50" src="https://skillicons.dev/icons?i=docker">
   <img width="50" src="https://skillicons.dev/icons?i=postgres">
   <img width="50" src="https://skillicons.dev/icons?i=mongodb">
