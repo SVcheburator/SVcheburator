@@ -6,6 +6,7 @@
 ### Languages:
 <div>
   <img width="50" src="https://skillicons.dev/icons?i=python">
+  <img width="50" src="https://skillicons.dev/icons?i=cpp">
   <img width="50" src="https://skillicons.dev/icons?i=html">
   <img width="50" src="https://skillicons.dev/icons?i=css">
   <img width="50" src="https://img.icons8.com/?size=512&id=59952&format=png"/>
