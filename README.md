@@ -25,6 +25,7 @@
   <img width="50" src="https://skillicons.dev/icons?i=redis">
   <img width="50" src="https://skillicons.dev/icons?i=regex">
   <img width="50" src="https://skillicons.dev/icons?i=bootstrap">
+  <img width="50" src="https://skillicons.dev/icons?i=git">
   <img width="50" src="https://skillicons.dev/icons?i=github">
   <img width="50" src="https://skillicons.dev/icons?i=vscode">
   <img width="50" src="https://img.icons8.com/dusk/64/dbeaver.png"/>
