@@ -19,8 +19,9 @@
   <img width="50" src="https://skillicons.dev/icons?i=html">
   <img width="50" src="https://skillicons.dev/icons?i=css">
   <img width="50" src="https://skillicons.dev/icons?i=postgres">
-  <img width="50" src="https://skillicons.dev/icons?i=mongodb">
+  <img width="50" src="https://skillicons.dev/icons?i=mysql">
   <img width="50" src="https://skillicons.dev/icons?i=sqlite">
+  <img width="50" src="https://skillicons.dev/icons?i=mongodb">
   <img width="50" src="https://skillicons.dev/icons?i=rabbitmq">
   <img width="50" src="https://skillicons.dev/icons?i=redis">
   <img width="50" src="https://skillicons.dev/icons?i=regex">
