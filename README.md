@@ -6,9 +6,7 @@
 ### Languages:
 <div>
   <img width="50" src="https://skillicons.dev/icons?i=python">
-  <img width="50" src="https://skillicons.dev/icons?i=js">
   <img width="50" src="https://skillicons.dev/icons?i=cpp">
-  <img width="50" src="https://img.icons8.com/?size=512&id=59952&format=png"/>
 </div>
 
 
@@ -17,8 +15,7 @@
   <img width="50" src="https://skillicons.dev/icons?i=django">
   <img width="50" src="https://skillicons.dev/icons?i=fastapi">
   <img width="50" src="https://skillicons.dev/icons?i=docker">
-  <img width="50" src="https://skillicons.dev/icons?i=html">
-  <img width="50" src="https://skillicons.dev/icons?i=css">
+  <img width="50" src="https://img.icons8.com/?size=512&id=59952&format=png"/>
   <img width="50" src="https://skillicons.dev/icons?i=postgres">
   <img width="50" src="https://skillicons.dev/icons?i=mysql">
   <img width="50" src="https://skillicons.dev/icons?i=sqlite">
@@ -26,7 +23,6 @@
   <img width="50" src="https://skillicons.dev/icons?i=rabbitmq">
   <img width="50" src="https://skillicons.dev/icons?i=redis">
   <img width="50" src="https://skillicons.dev/icons?i=regex">
-  <img width="50" src="https://skillicons.dev/icons?i=bootstrap">
   <img width="50" src="https://skillicons.dev/icons?i=git">
   <img width="50" src="https://skillicons.dev/icons?i=github">
   <img width="50" src="https://skillicons.dev/icons?i=heroku">
@@ -36,6 +32,8 @@
   <img width="50" src="https://skillicons.dev/icons?i=stackoverflow">
 </div>
 
+### FrontEnd / BackEnd:
+![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)
 
 ## Contacts:
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:oleksandrdanylenko.contact@gmail.com)
