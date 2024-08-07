@@ -29,7 +29,6 @@
   <img width="50" src="https://skillicons.dev/icons?i=vscode">
   <img width="50" src="https://img.icons8.com/dusk/64/dbeaver.png"/>
   <img width="50"src="https://img.icons8.com/fluency/48/console.png">
-  <img width="50" src="https://skillicons.dev/icons?i=stackoverflow">
 </div>
 
 ### FrontEnd / BackEnd:
@@ -41,4 +40,5 @@
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/CHEBURATOR#3764/)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/danylenko_sasha/)
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/SV_CHEBURATOR)
+[![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/21757133/cheburator)
 
