@@ -32,7 +32,7 @@
 </div>
 
 ### FrontEnd / BackEnd:
-![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap)
 
 ## Contacts:
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:oleksandrdanylenko.contact@gmail.com)
