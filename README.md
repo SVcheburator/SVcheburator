@@ -22,6 +22,7 @@
   <img width="50" src="https://skillicons.dev/icons?i=mysql">
   <img width="50" src="https://skillicons.dev/icons?i=sqlite">
   <img width="50" src="https://skillicons.dev/icons?i=mongodb">
+  <img width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg">
   <img width="50" src="https://skillicons.dev/icons?i=rabbitmq">
   <img width="50" src="https://skillicons.dev/icons?i=redis">
   <img width="50" src="https://skillicons.dev/icons?i=regex">
@@ -31,6 +32,7 @@
   <img width="50" src="https://skillicons.dev/icons?i=vscode">
   <img width="50" src="https://img.icons8.com/dusk/64/dbeaver.png"/>
   <img width="50"src="https://img.icons8.com/fluency/48/console.png">
+  
 </div>
 
 ### FrontEnd / BackEnd:
