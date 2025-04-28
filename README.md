@@ -9,6 +9,7 @@
   <img width="50" src="https://skillicons.dev/icons?i=cpp">
   <img width="50" src="https://skillicons.dev/icons?i=php">
   <img width="50" src="https://skillicons.dev/icons?i=r">
+  <img width="50" src="https://skillicons.dev/icons?i=kotlin">
 </div>
 
 
